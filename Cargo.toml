@@ -1,0 +1,12 @@
+[package]
+name = "ballpit"
+version = "0.0.0"
+authors = ["Hans Kratz <hans@appfour.com>"]
+edition = "2018"
+description = "TBD"
+license = "MIT OR Apache-2.0"
+exclude = [
+    "/.gitignore",
+]
+
+[dependencies]
